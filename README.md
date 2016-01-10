@@ -1,6 +1,6 @@
 # wpa_supplicant.conf
 
-My wpa_supplican.conf for connecting to wpa2 enterprise networks for Universities
+My wpa_supplicant.conf for connecting to wpa2 enterprise networks for Universities
 
 To generate a hash for the password (instead of storing the password in plaintext)
 Type in the following command:
